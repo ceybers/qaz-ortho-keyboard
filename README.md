@@ -1,6 +1,6 @@
 # Untitled QAZ Ortho 38 key
 
-![Render of the keyboard](images/renders/202403101544.png)
+![Photo of finished build](images/photos/DSCF2982.jpg)
 
 ## 📻 Project Description
 
@@ -24,6 +24,7 @@ As much as I like my split keyboards, I wanted to try a small orthographic keybo
 ## 🙏 Inspired by...
 - [QAZ by Coffee Break Keyboards](https://cbkbd.bigcartel.com/product/qaz)
 - [Scotto Long by Joe Scotto](https://github.com/joe-scotto/scottokeebs/tree/main/ScottoLong)
+- [VOID40 by Victor Lucachi](https://github.com/victorlucachi/void40)
 
 ## 📐 References
 - [Raspberry Pi Pico](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)

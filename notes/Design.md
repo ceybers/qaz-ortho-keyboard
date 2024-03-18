@@ -2,7 +2,7 @@
 
 ## Current Design
 
-The layout is a typical 10 column 4 row orthographic keyboard, with a pair of 2u keys on the thumb row. The case is a Hi-Profile shell with a 3.5mm switch plate secured using screws and heatset inserts that are placed in the shell. I couldn't decide on angling so I left it flat.
+The layout is a typical 10 column 4 row orthographic keyboard, with a pair of 2u keys on the thumb row. The case is a Hi-Profile shell with a 3.5mm thick switch plate secured using M2 screws and heat-set inserts placed in the shell. I couldn't decide on a tilt angle so I left it flat.
 
 ![Render of the keyboard showing the controllers](../images/renders/202403101546.png)
 
